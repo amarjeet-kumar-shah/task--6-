@@ -1,0 +1,11 @@
+.image-item img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s;
+  }
+  
+  .image-item img:hover {
+    transform: scale(1.1);
+  }
+  
